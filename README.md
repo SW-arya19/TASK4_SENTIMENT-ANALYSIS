@@ -19,4 +19,4 @@ To process this textual data, **Natural Language Processing (NLP) techniques** w
 
 To better understand the dataset, **visualizations** such as **sentiment distribution plots and word clouds** were created, highlighting the most frequently used words in positive, neutral, and negative tweets. Finally, an **interactive component** allows users to input tweets and receive real-time sentiment predictions, making the model engaging and practical for sentiment analysis in airline customer feedback.
 
-**OUTPUT**:
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/385ecd47-549a-45ba-be13-39cfdfe381b4)
